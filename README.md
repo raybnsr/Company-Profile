@@ -18,6 +18,10 @@ The tools used in the development of this website are :
 - JavaScript
 
 ## Result
+- ### Website
+
+- ### Mobile
+
 
 ## Live Demo
 https://barnesco.web.app/
