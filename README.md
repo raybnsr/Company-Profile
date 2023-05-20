@@ -1,33 +1,34 @@
 # Barnés - Company Profile
 
 ## Description
-A website admin panel that can be used as employee data management. The development of this website uses the laravel framework and uses the Filament to build dynamic, maintainable applications quickly.  A fully-featured Laravel admin panel.
-Build complex and interactive tables, complete with sort, search and filter functionalities, easily.
-Craft intuitive forms using a wide range of field types, using our simple, class-based form builder.
+A Barnés Company Profile website serves as a comprehensive online representation of a business, providing visitors with detailed insights into its mission, values, products, and services.
+Implemented using HTML, CSS, and JavaScript as the three foundations of website creation. This website page uses HTML semantic techniques and also have implemented responsive layout.
 
 ## Usage
-- The admin panel is used to manage all employee data. Admin can add data, update data, change data, and delete data (CRUD). The whole is connected to the MYSQL database.
+With the growing significance of online presence in today's digital era, having a well-designed and informative Company Profile Website becomes essential for building credibility, attracting new opportunities, and fostering trust among stakeholders.
 
 ## Tools
 The tools used in the development of this website are :
 
-- PHP
-- Laravel
-- Filament
-- MYSQL
+- HTML
+- CSS
+- Javascript
 
 ## Result
 - ### Website
-- ![1](https://user-images.githubusercontent.com/87411691/217533040-fde47dd6-79c4-4197-bc06-eb5a544527e3.png)
-- ![2](https://user-images.githubusercontent.com/87411691/217533061-f4ed9d57-c0c8-4a1e-9967-c4f634c88b0e.png)
-- ![3](https://user-images.githubusercontent.com/87411691/217533068-e62526b6-9d4d-435a-abab-a08bf20e5d8b.png)
-- ![4](https://user-images.githubusercontent.com/87411691/217533078-080e7212-a6b0-440a-ada5-ad575e294295.png)
-- ![5](https://user-images.githubusercontent.com/87411691/217533088-36b33ac3-afda-4614-a2d3-c9d3a04ef1ad.png)
-- ![6](https://user-images.githubusercontent.com/87411691/217533095-5dcfe6dc-d080-44d1-ba0d-4adfcb330aa5.png)
-- ![7](https://user-images.githubusercontent.com/87411691/217533111-8aa6da35-108a-46a3-95c4-cea83f67e909.png)
-- ![8](https://user-images.githubusercontent.com/87411691/217533118-d7ad04bb-7f9a-4102-81f3-478b6d390cd9.png)
-- ![9](https://user-images.githubusercontent.com/87411691/217533122-a62fbf40-55b5-4ad3-b249-8842acb6c26a.png)
-- ![10](https://user-images.githubusercontent.com/87411691/217533144-fc042d1d-735e-4b60-ab00-0cf20e5f7cc1.png)
-- ![11](https://user-images.githubusercontent.com/87411691/217533170-25c3cd2b-9328-4b6a-b2e6-3b557ca36589.png)
-- ![12](https://user-images.githubusercontent.com/87411691/217533024-addd67b7-8c8d-456b-8f35-d4647a2e103b.png)
+![Dashboard Web](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/b5fb373b-d8e7-4e6f-8789-37579c195951)
+![About Web](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/7778bcc1-b583-4325-9c7f-8e929b87b1c6)
+![Goals Web](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/7535fad5-7079-4b88-b491-eefcf4245a17)
+![Brands Web](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/ffec5702-1b00-4140-a0f5-5f10dd6a54f4)
+![Products Web](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/df1631b3-2a08-4d51-9c4d-af0482902c68)
+![Contact Web](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/952de4a5-0dd0-4df3-8123-3c66cde536c3)
+![Footer Web](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/75def893-95d8-4ded-8f2b-39350974f1e2)
 
+- ### Mobile
+- ![Dashboard Mobile](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/6e0c0305-7052-4c79-ac01-833d792995a4)
+- ![About Mobile](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/8e5d1e1c-0295-4259-b504-77b5d0901198)
+- ![Goals Mobile](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/bf6a5eeb-69f7-40dc-8d04-0ed96b5e9fcb)
+- ![Brands Mobile 2](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/0a28df62-ca96-491d-8226-a686633426fc)
+- ![Products Mobile 2](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/c5e30e63-c7b8-43e3-b761-dee8edc93a69)
+- ![Contact Mobile](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/e3642ea5-c3d6-4eb1-99d2-e5b4128a51e1)
+- ![Footer Mobile](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/f424f61b-3095-4d83-bf9e-0b14c718e123)
