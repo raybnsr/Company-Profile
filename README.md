@@ -14,6 +14,9 @@ The tools used in the development of this website are :
 - CSS
 - Javascript
 
+## Live Demo
+https://barnesco.web.app/
+
 ## Result
 - ### Website
 ![Dashboard Web](https://github.com/raybnsr/Web-Company-Profile/assets/87411691/b5fb373b-d8e7-4e6f-8789-37579c195951)
